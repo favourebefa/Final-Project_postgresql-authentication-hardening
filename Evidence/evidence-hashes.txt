@@ -1,0 +1,53 @@
+SHA-256 Evidence Integrity Record
+Generated: Thu 09/10/2026  0:09:16.46
+
+[BEFORE]
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\BEFORE\Current_PostgreSQL_HBA_Configuration.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\BEFORE\Current_PostgreSQL_HBA_Configuration.png:
+fedb277b87af0cb6df85e87f623d803ea858570243371d47e10d0e4b2d0860fb
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\BEFORE\Listen_Addresses.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\BEFORE\Listen_Addresses.png:
+30f3d926459efe8e158bf37dbeab7df85f51cbbf933e2491399c9041536e6f4f
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\BEFORE\PostgreSQL_Expose_Port5432.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\BEFORE\PostgreSQL_Expose_Port5432.png:
+714a0476276533bb8eee1b03f2b3cd6364053b6105ac21030fcb87e39e8b5294
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\BEFORE\Remote_Access_Evidence.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\BEFORE\Remote_Access_Evidence.png:
+276806f0b579758bf029005719e722265057de23a71fc7283fe2276a1f1e809b
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\BEFORE\Valid_Baselne_Postgresql.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\BEFORE\Valid_Baselne_Postgresql.png:
+10c4b05e43a1505e2a83dbba665a1c793e85477bd029bc89fd0b124563735631
+
+[AFTER - approved evidence only]
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\Active_HBA_Rule.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\Active_HBA_Rule.png:
+826fdf5b1d4c0de63791d6a80491750094c3b71565fd2ea960b6620ce0c8b815
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\Active_HBA_Rule_2.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\Active_HBA_Rule_2.png:
+a6f610276b44f0eda2fa95164c21cea3b60f9e4a4fb2f41a936ca8e9428c871c
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\Current_State.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\Current_State.png:
+a814b08bee1008e93dd630406f69c5786a77f3a03c9c63cae5d7013bb27410c1
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\HBA_Restriction_Rule_Set.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\HBA_Restriction_Rule_Set.png:
+b26698feb6792c1c9b3aa823f74847e91b9a1274714e59a7f68eb4c5ae8067e7
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\Password_Format_Check.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\Password_Format_Check.png:
+ab313d4c80355e40963075baa1403bdd462a05423b52920ffe47d07908840316
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\pg_reload_conf.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\pg_reload_conf.png:
+7497b07b7b3e3df020263df424d92869d0d9a87160a067c064aacb68c33b144e
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\Postgres_Port.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\AFTER\Postgres_Port.png:
+9fd618b008f97e16f4e6b15def097e20a3344885819979ca35d9d7fb78a7bd3c
+
+[NETWORK VALIDATION]
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\Network Validation\Windows_to_Kali_HBA_Denied.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\Network Validation\Windows_to_Kali_HBA_Denied.png:
+aa74c72ab98da6875e3f88f6b229bbff7de2f24697e7f1a1a384cbadc3a6f405
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\Network Validation\Windows_to_Kali_Old_Password_Rejected.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\Network Validation\Windows_to_Kali_Old_Password_Rejected.png:
+06093e1101dc0cc1c98baa0a56aaa6e008adb28bc6d12971889681c84e49196d
+C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\Network Validation\Windows_to_Kali_Source_IP.png 
+SHA256 hash of C:\Users\User\Desktop\ihifix_class_2\week1\Evidence\Network Validation\Windows_to_Kali_Source_IP.png:
+f0ec9efe26c99b680afc2e23aa46afd2bda6596911022e38cf1a98971f3b396f

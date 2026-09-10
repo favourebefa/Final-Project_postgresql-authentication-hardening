@@ -1,0 +1,25 @@
+# Sensitive evidence
+Evidence/AFTER/Changing_Known_Password.png
+
+# Microsoft Office temporary/lock files
+~$*.xlsx
+
+# Environment and secret files
+.env
+.env.*
+*.key
+*.pem
+
+# Private/secrets directories
+private/
+secrets/
+
+# Local network validation evidence containing IP addresses
+Evidence/Network Validation/
+
+# Network validation screenshots containing private lab IP addresses
+Evidence/Network Validation/
+
+
+# Local backup presentation
+report/My Final Presentation-BACKUP.pptx
